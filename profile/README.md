@@ -3,6 +3,9 @@
 
 # ICONs - Intelligent Agents Networking and Communications
 
+![ICONs Logo](images/icons_logo.png)
+
+
 Welcome to the ICONs (Intelligent Agents Networking and Communications) research team's repository. We are a dedicated group of researchers focused on advancing the field of intelligent agents networking and communications technologies. 
 Our work spans various domains, including sensor technologies, communication systems, and the integration of these systems into intelligent networks.
 
