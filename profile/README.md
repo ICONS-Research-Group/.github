@@ -35,9 +35,8 @@ Our team comprises experts from diverse backgrounds, including electrical engine
 
 ### Team Members
 
-- **[Your Name]** - Qihao Li
-- **[Member 1]** - TongZhou Yang
-- **[Member 2]** - Chongyang Guo
+- TongZhou Yang
+- Chongyang Guo
 - **[Member 3]** - 
 - **[Member 4]** - 
 
@@ -47,9 +46,9 @@ Our team comprises experts from diverse backgrounds, including electrical engine
 
 ### Ongoing Projects
 
-- **Project 1**: Description of Project 1.
-- **Project 2**: Description of Project 2.
-- **Project 3**: Description of Project 3.
+- **Project 1**: Digital Twin-Driven Machine-type E2E Transmission Reliability and Network Resource Optimization in Industrial Internet, Jan. 2023–Dec. 2025
+- **Project 2**: Research on ultra-High Reliable Transmission Technology in Industrial Internet Empowered by Smart Twins, Jan. 2023–Dec. 2025
+- **Project 3**: Cybertwin-enabled Novel Intelligent Network Architecture Technology and Experimental Platform, Jan. 2021–Dec. 2025
 
 ### Completed Projects
 
@@ -60,8 +59,8 @@ Our team comprises experts from diverse backgrounds, including electrical engine
 
 We publish our research findings in leading journals and conferences. Below are some of our recent publications:
 
-1. **Title of Paper 1** - Journal/Conference, Year
-2. **Title of Paper 2** - Journal/Conference, Year
+1. **Channel-Aware Latency Tail Taming in Industrial IoT** - IEEE Transactions on Wireless Communications
+2. **Channel-based Optimal Back-off Delay Control in Delay-Constrained Industrial WSNs** - IEEE Transactions on Wireless Communications
 3. **Title of Paper 3** - Journal/Conference, Year
 
 (Include links to the publications if available)
@@ -74,10 +73,9 @@ We actively seek collaborations with academic institutions, industry partners, a
 
 For more information about our research, projects, or collaboration opportunities, please contact us:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Address**: [Your Institution's Address]
+- **Email**: [qihaol@jlu.edu.cn](mailto:qihaol@jlu.edu.com)
+- **Address**: College of Communication Engineering, Jilin University, No.5372, Nanhu Road, Changchun, Jilin, China
 
-You can also follow our latest updates on [Twitter](https://twitter.com/yourhandle) and [LinkedIn](https://linkedin.com/in/yourhandle).
 
 ---
 
