@@ -63,7 +63,7 @@ Our team comprises experts from diverse backgrounds, including electrical engine
 We publish our research findings in leading journals and conferences. Below are some of our recent publications:
 
 1. **Channel-Aware Latency Tail Taming in Industrial IoT** - IEEE Transactions on Wireless Communications
-2. **Channel-based Optimal Back-off Delay Control in Delay-Constrained Industrial WSNs** - IEEE Transactions on Wireless Communications
+2. [**Channel-based Optimal Back-off Delay Control in Delay-Constrained Industrial WSNs** - IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/document/10032246)
 3. **Title of Paper 3** - Journal/Conference, Year
 
 (Include links to the publications if available)
